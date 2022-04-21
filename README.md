@@ -24,6 +24,10 @@ The list of color names in matplotlib is the following.
 
 From `matplotlib.colors` can be loaded the dictionary `mcolors.CSS4_COLORS`. This is a dictionary with pairs color name and definition.
 
+## Sources
+
+[Color theory and the color wheel](https://www.canva.com/colors/color-wheel/)
+
 ## Definition
 
 
