@@ -26,7 +26,10 @@ From `matplotlib.colors` can be loaded the dictionary `mcolors.CSS4_COLORS`. Thi
 
 ## Sources
 
-[Color theory and the color wheel](https://www.canva.com/colors/color-wheel/)
+[Color theory and the color wheel](https://www.canva.com/colors/color-wheel/)  
+[Matplotlib Colors](https://matplotlib.org/stable/api/colors_api.html)  
+[Creating color maps with matplotlib](https://matplotlib.org/stable/tutorials/colors/colormap-manipulation.html)
+
 
 ## Definition
 
